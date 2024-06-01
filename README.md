@@ -1,0 +1,1 @@
+This is some code in C that reads in a file, in this case with all the data from the Periodic Table, and organizes it in a manner that makes data retrival extremly easy. It comes with four user prompts. 
